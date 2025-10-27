@@ -1,17 +1,17 @@
 # Prime-Video-
 
-🎬 PrimeView Analytics: Global Amazon Prime Video Insights Dashboard
+1. 🎬 PrimeView Analytics: Global Amazon Prime Video Insights Dashboard
 
 A dynamic and interactive Power BI dashboard built to explore the global content catalog of Amazon Prime Video, focusing on content distribution, genre diversity, release trends, and audience ratings across countries.
 
 
-📝 Short Description / Purpose
+2. 📝 Short Description / Purpose
 
 The PrimeView Analytics Dashboard is an engaging and data-driven visualization tool designed to analyze Prime Video’s worldwide collection of movies and TV shows.
 It provides insights into genre popularity, content evolution from 1920 to 2021, and regional content distribution—helping analysts and strategists better understand the platform’s global media landscape.
 
 
-💻 Tech Stack
+3. 💻 Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -26,7 +26,7 @@ The dashboard was built using the following tools and technologies:
 • 📁 File Format – .pbit (Power BI Template) for development and .png for dashboard previews.
 
 
-📊 Data Source
+4. 📊 Data Source
 
 Source: Kaggle – Amazon Prime Video Titles Dataset
 
@@ -35,21 +35,15 @@ Contains metadata for 9,655 titles available on Prime Video, including:
 Title Name
 
 Type (Movie / TV Show)
-
-Director
-
-Genre
-
-Country
-
-Release Year
-
-Rating
-
+Director,
+Genre,
+Country,
+Release Year,
+Rating,
 The dataset spans from 1920 to 2021, providing a historical overview of Prime Video’s global entertainment catalog.
 
 
-⭐ Features / Highlights
+5. ⭐ Features / Highlights
 
 Business Problem
 
@@ -121,6 +115,10 @@ Helps marketing and creative teams design targeted campaigns by genre, region, o
 Trend Monitoring:
 Reveals historical content growth patterns, aiding in forecasting future streaming trends.
 
+
+6. Screenshots / Demos
+
+   
 
 
 
