@@ -116,7 +116,8 @@ Trend Monitoring:
 Reveals historical content growth patterns, aiding in forecasting future streaming trends.
 
 
-6. Screenshots / Demos
+6. Screenshots / Demos:
+   https://github.com/samfreerit/Prime-Video-/blob/main/prime%20video.png
 
    
 
